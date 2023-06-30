@@ -1,9 +1,9 @@
 +++
-title = "   **Arbeitstag als Grosstierarzt**    **Mit grossen Tieren kommt grosse Verantwortung: Ein wichtiger Teil der Schweizer Infrastruktur, der oft unterschätzt wird. Was macht ein Grosstierarzt?**"
+title = "  Arbeitstag als Grosstierarzt: Mit grossen Tieren kommt grosse Verantwortung: Ein wichtiger Teil der Schweizer Infrastruktur, der oft unterschätzt wird. Was macht ein Grosstierarzt?"
 date = "2023-06-28"
 draft = false
 pinned = false
-tags = ["blog", "liloblog", "stanlemondemon", "somebodypleasesaveme"]
+tags = ["blog", "liloblog", "stanlemondemon", "somebodypleasesaveme", "Reportage", "deutsch"]
 image = "img_4498.jpeg"
 footnotes = "Tamara Dudko & Helena Kohler"
 +++
